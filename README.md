@@ -1,122 +1,106 @@
-#EXTM3U
-
-#EXTINF:-1,Globo RJ FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/752
-#EXTINF:-1,Globo RJ HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/475
-#EXTINF:-1,Globo RJ SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/476
-
-
-#EXTINF:-1,Animal Planet 4k
-http://portal.supertela.cloudns.cl:80/marlene/123456/245
-#EXTINF:-1,Animal Planet FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/702
-#EXTINF:-1,Animal Planet HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/293
-#EXTINF:-1,Animal Planet SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/294
-
-
-#EXTINF:-1,Discovery Channel 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/249
-#EXTINF:-1,Discovery Channel FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/717
-#EXTINF:-1,Discovery Channel HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/377
-#EXTINF:-1,Discovery Channel SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/378
-
-
-#EXTINF:-1,History Channel 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/19317
-#EXTINF:-1,History Channel FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/778
-#EXTINF:-1,History Channel HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/544
-#EXTINF:-1,History Channel SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/545
-
-
-#EXTINF:-1,Viva 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/52003
-#EXTINF:-1,Viva FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/824
-#EXTINF:-1,Viva HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/689
-#EXTINF:-1,Viva SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/690
-
-
-#EXTINF:-1,HBO 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/255
-#EXTINF:-1,HBO 2 FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/769
-#EXTINF:-1,HBO 2 HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/524
-#EXTINF:-1,HBO 2 SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/525
-
-
-#EXTINF:-1,HBO Mundi 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/41584
-#EXTINF:-1,HBO Mundi FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/772
-#EXTINF:-1,HBO Mundi HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/529
-#EXTINF:-1,HBO Mundi SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/530
-
-
-#EXTINF:-1,Telecine Pipoca 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/267
-#EXTINF:-1,Telecine Pipoca FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/817
-#EXTINF:-1,Telecine Pipoca HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/661
-#EXTINF:-1,Telecine Pipoca SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/662
-
-
-#EXTINF:-1,Record RJ HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/606
-
-
-#EXTINF:-1,SBT RJ HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/625
-
-
-#EXTINF:-1,SBT SP 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/263
-#EXTINF:-1,SBT SP FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/801
-#EXTINF:-1,SBT SP HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/627
-#EXTINF:-1,SBT SP SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/628
-
-
-#EXTINF:-1,Record News FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/798
-#EXTINF:-1,Record News HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/603
-#EXTINF:-1,Record News SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/604
-
-
-#EXTINF:-1,HBO Plus 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/41585
-#EXTINF:-1,HBO Plus FHD LEG
-http://portal.supertela.cloudns.cl:80/marlene/123456/20776
-#EXTINF:-1,HBO Plus HD LEG
-http://portal.supertela.cloudns.cl:80/marlene/123456/20777
-
-
-#EXTINF:-1,HBO Xtreme 4K
-http://portal.supertela.cloudns.cl:80/marlene/123456/256
-#EXTINF:-1,HBO Xtreme FHD
-http://portal.supertela.cloudns.cl:80/marlene/123456/775
-#EXTINF:-1,HBO Xtreme HD
-http://portal.supertela.cloudns.cl:80/marlene/123456/538
-#EXTINF:-1,HBO Xtreme SD
-http://portal.supertela.cloudns.cl:80/marlene/123456/539
+#EXTINF:-1,TV Camara
+http://painel.tvdigitalsbl.net:80/vo/vo/12958
+#EXTINF:-1,Globo SP | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/15044
+#EXTINF:-1,Globo Minas | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/12970
+#EXTINF:-1,Globo Brasilia | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/12974
+#EXTINF:-1,Globo Bahia
+http://painel.tvdigitalsbl.net:80/vo/vo/12975
+#EXTINF:-1,Globo Subae BH | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/12977
+#EXTINF:-1,Globo Campinas | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/12979
+#EXTINF:-1,Globo Campinas | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/12980
+#EXTINF:-1,Globo Porto Alegre
+http://painel.tvdigitalsbl.net:80/vo/vo/12983
+#EXTINF:-1,Globo Sao Carlos
+http://painel.tvdigitalsbl.net:80/vo/vo/12987
+#EXTINF:-1,Globo Ribeirão Preto | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/15045
+#EXTINF:-1,Globo Curitiba | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/12994
+#EXTINF:-1,Globo MA | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13005
+#EXTINF:-1,Record Parana | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13064
+#EXTINF:-1,Home & Health Discovery
+http://painel.tvdigitalsbl.net:80/vo/vo/13082
+#EXTINF:-1,Home & Health Discovery | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13083
+#EXTINF:-1,OFF
+http://painel.tvdigitalsbl.net:80/vo/vo/13085
+#EXTINF:-1,OFF | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13087
+#EXTINF:-1,BIS | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13089
+#EXTINF:-1,SporTV | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13097
+#EXTINF:-1,SporTV | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13098
+#EXTINF:-1,SporTV 2
+http://painel.tvdigitalsbl.net:80/vo/vo/13099
+#EXTINF:-1,SporTV 2 | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13100
+#EXTINF:-1,SporTV 2 | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13101
+#EXTINF:-1,SporTV 3
+http://painel.tvdigitalsbl.net:80/vo/vo/13102
+#EXTINF:-1,SporTV 3 | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13103
+#EXTINF:-1,SporTV 3 | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13104
+#EXTINF:-1,Globo News
+http://painel.tvdigitalsbl.net:80/vo/vo/13105
+#EXTINF:-1,Multishow | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13109
+#EXTINF:-1,Multishow | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13110
+#EXTINF:-1,Fox Premium 1 | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13125
+#EXTINF:-1,Fox Premium 1  | HD - LEG
+http://painel.tvdigitalsbl.net:80/vo/vo/13126
+#EXTINF:-1,TNT Series | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13137
+#EXTINF:-1,AXN | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13140
+#EXTINF:-1,Telecine Action | HD - LEG
+http://painel.tvdigitalsbl.net:80/vo/vo/13152
+#EXTINF:-1,Telecine Cult | HD - LEG
+http://painel.tvdigitalsbl.net:80/vo/vo/13157
+#EXTINF:-1,Telecine Fun | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13161
+#EXTINF:-1,Telecine Touch | HD - LEG
+http://painel.tvdigitalsbl.net:80/vo/vo/13177
+#EXTINF:-1,HBO MUNDI | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13194
+#EXTINF:-1,TBS | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13242
+#EXTINF:-1,Cartoon Network
+http://painel.tvdigitalsbl.net:80/vo/vo/13297
+#EXTINF:-1,Fox Sports 2 | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13352
+#EXTINF:-1,ESPN
+http://painel.tvdigitalsbl.net:80/vo/vo/13353
+#EXTINF:-1,ESPN | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13355
+#EXTINF:-1,ESPN 2
+http://painel.tvdigitalsbl.net:80/vo/vo/13356
+#EXTINF:-1,ESPN 2 | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13357
+#EXTINF:-1,Combate | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13368
+#EXTINF:-1,ALADIN | 24H
+http://painel.tvdigitalsbl.net:80/vo/vo/13443
+#EXTINF:-1,Cao Coragem | 24H
+http://painel.tvdigitalsbl.net:80/vo/vo/13448
+#EXTINF:-1,Digimon | 24H
+http://painel.tvdigitalsbl.net:80/vo/vo/13456
+#EXTINF:-1,Dois Homens e Meio | 24H
+http://painel.tvdigitalsbl.net:80/vo/vo/13457
+#EXTINF:-1,Steven Universe | 24H
+http://painel.tvdigitalsbl.net:80/vo/vo/13505
+#EXTINF:-1,HBO Family | FHD - H264
+http://painel.tvdigitalsbl.net:80/vo/vo/19619
