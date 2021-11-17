@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1, CANAL 25
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 #EXTINF:-1, CANAL VIDA
